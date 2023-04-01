@@ -2,7 +2,7 @@
     "name": "app/hello",
     "autoload": {
         "psr-4": {
-            "Wild\\Composer\\": "src/"
+            "App\\Hello\\": "src/"
         }
     },
     "authors": [
