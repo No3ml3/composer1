@@ -1,0 +1,15 @@
+{
+    "name": "app/hello",
+    "autoload": {
+        "psr-4": {
+            "Wild\\Composer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Noemie.BARRE",
+            "email": "noemie.barre24@gmail.com"
+        }
+    ],
+    "require": {}
+}
